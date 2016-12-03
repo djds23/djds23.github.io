@@ -374,6 +374,9 @@ body {
   height: 18.75em;
   margin-top: 6em; }
 
+.badge img {
+  padding: 1em; }
+
 h1 {
   color: rgba(0, 0, 0, 0.5);
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
